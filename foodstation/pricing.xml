@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pricing.xsl"?>
+<service xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="pricing.xsd"> 
+	
+	<pricing>
+		<id>1256513</id>
+		<Plans>Gold Tier Plan</Plans>
+		<category>Health Enthusiasts</category>
+		<pricing>3000</pricing>
+		<offers>15% Cashback</offers>
+		<end>2020-08-25</end>
+		<Status>Available</Status>
+    </pricing>
+	
+	<pricing>
+		<id>1256513</id>
+		<Plans>High Intense Plan</Plans>
+		<category>Bodybuilders</category>
+		<pricing>1299</pricing>
+		<offers>10% off for SBI users</offers>
+		<end>2020-08-25</end>
+		<Status>Available</Status>
+    </pricing>	<pricing>
+		<id>1256513</id>
+		<Plans>Beauty Natural Pack</Plans>
+		<category>Modelling</category>
+		<pricing>999</pricing>
+		<offers>Subscibre for 2 months and get 2 months free</offers>
+		<end>2020-08-25</end>
+		<Status>Available</Status>
+    </pricing>	<pricing>
+		<id>1256513</id>
+		<Plans>Beauty Workout Plan</Plans>
+		<category>For ladies</category>
+		<pricing>799</pricing>
+		<offers>vchvch</offers>
+		<end>2020-08-25</end>
+		<Status>Available</Status>
+    </pricing>	<pricing>
+		<id>1256513</id>
+		<Plans>Students Plan</Plans>
+		<category>Students</category>
+		<pricing>444</pricing>
+		<offers>10% Cashback</offers>
+		<end>2020-08-25</end>
+		<Status>Available</Status>
+    </pricing>
+</service>
